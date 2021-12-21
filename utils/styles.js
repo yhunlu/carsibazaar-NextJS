@@ -2,7 +2,7 @@ import { makeStyles } from '@mui/styles';
 
 const useStyles = makeStyles({
   navbar: {
-    backgroundColor: '#88b719',
+    backgroundColor: '#ffb900',
     '& a': {
       color: '#ffffff',
       marginLeft: 10,
